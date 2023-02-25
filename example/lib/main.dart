@@ -120,8 +120,6 @@ class _MyHomePageState extends State<MyHomePage> {
               });
             },
           ).then((data) async {
-            /// Get your uploaded Image file link from [ImageKit.io]
-            /// then save it anywhere you want. For Example- [Firebase, MongoDB] etc.
             if (kDebugMode) {
               print(data);
             }
