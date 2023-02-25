@@ -21,3 +21,11 @@ Lets take a look at how to use [Remove.bg](https://www.remove.bg/) Flutter Packa
     }
   });
 ``` 
+
+## Examples
+- [Remove.bg ](https://github.com/Deepjyoti120/remove_bg/tree/master/example)
+`Select Image` and Upload on `Remove.bg` then you will received Converted image file from `Remove.bg`
+
+## Maintainers
+- [Deepjyoti Baishya](https://www.instagram.com/deepjyoti_sam/)
+#### Thank you
