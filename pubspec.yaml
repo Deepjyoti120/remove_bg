@@ -1,6 +1,6 @@
 name: remove_bg
 description: Simple and light weight package to use Official Documentation of remove.bg. 
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Deepjyoti120/remove_bg
 
 environment:
